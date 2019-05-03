@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\enano\source\repos\final_example\final_example\main.cpp(96): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+  final_example.vcxproj -> C:\Users\Enano\source\repos\final_example\Debug\final_example.exe
